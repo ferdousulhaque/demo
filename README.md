@@ -7,8 +7,8 @@ This repository is for git basic operations demostration. This will help for bet
 The following topics are covered and with the youtube video links.
 
 - [Clone](https://www.youtube.com/watch?v=DLwk_CX46No)
-- [Pull](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
-- [Fetch](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Pull](https://www.youtube.com/watch?v=Aabm74Kqzq0)
+- [Fetch](https://www.youtube.com/watch?v=LUjOdoC4Lfk)
 - [Merge](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Rebase](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Stash](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
