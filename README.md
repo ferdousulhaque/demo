@@ -12,6 +12,7 @@ The following topics are covered and with the youtube video links.
 - [Merge](https://www.youtube.com/watch?v=i05IJIlmhQA)
 - [Rebase](https://www.youtube.com/watch?v=RFQfPeGz13U)
 - [Stash](https://www.youtube.com/watch?v=tNitZgcmzcc)
+- [Squash](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Ignore](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Commit](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Amend](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
