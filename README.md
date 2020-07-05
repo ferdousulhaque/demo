@@ -9,7 +9,7 @@ The following topics are covered and with the youtube video links.
 - [Clone](https://www.youtube.com/watch?v=DLwk_CX46No)
 - [Pull](https://www.youtube.com/watch?v=Aabm74Kqzq0)
 - [Fetch](https://www.youtube.com/watch?v=LUjOdoC4Lfk)
-- [Merge](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Merge](https://www.youtube.com/watch?v=i05IJIlmhQA)
 - [Rebase](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Stash](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Ignore](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
