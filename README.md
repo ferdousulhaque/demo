@@ -6,7 +6,7 @@ This repository is for git basic operations demostration. This will help for bet
 
 The following topics are covered and with the youtube video links.
 
-- [Clone](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Clone](https://www.youtube.com/watch?v=DLwk_CX46No)
 - [Pull](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Fetch](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Merge](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
