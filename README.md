@@ -14,7 +14,7 @@ The following topics are covered and with the youtube video links.
 - [Stash](https://www.youtube.com/watch?v=tNitZgcmzcc)
 - [Squash](https://www.youtube.com/watch?v=rsB4xE8q28k)
 - [Ignore](https://www.youtube.com/watch?v=Irj4c86LTBc)
-- [Commit & Amend](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Commit & Amend](https://www.youtube.com/watch?v=sDz72ZGmAvA)
 - [Push & Tag](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Reset](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 
