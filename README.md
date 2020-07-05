@@ -16,7 +16,7 @@ The following topics are covered and with the youtube video links.
 - [Ignore](https://www.youtube.com/watch?v=Irj4c86LTBc)
 - [Commit & Amend](https://www.youtube.com/watch?v=sDz72ZGmAvA)
 - [Push & Tag](https://www.youtube.com/watch?v=mVpunRyx3uE)
-- [Reset](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Reset](https://www.youtube.com/watch?v=TEhmgcMK8Qo)
 
 ## Git Flow
 
