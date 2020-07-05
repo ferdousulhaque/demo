@@ -13,11 +13,9 @@ The following topics are covered and with the youtube video links.
 - [Rebase](https://www.youtube.com/watch?v=RFQfPeGz13U)
 - [Stash](https://www.youtube.com/watch?v=tNitZgcmzcc)
 - [Squash](https://www.youtube.com/watch?v=rsB4xE8q28k)
-- [Ignore](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
-- [Commit](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
-- [Amend](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
-- [Push](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
-- [Tag](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Ignore](https://www.youtube.com/watch?v=Irj4c86LTBc)
+- [Commit & Amend](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
+- [Push & Tag](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 - [Reset](https://www.youtube.com/channel/UCOBO_2YWUKbuLeOgr_rEeAw?view_as=subscriber)
 
 ## Git Flow
